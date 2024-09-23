@@ -1,2 +1,2 @@
 # javaProject
-These are some java project.
+These are some java projects.
